@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="hello_world_of_kotlin">Hello World of Kotlin</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="random">Random</string>
+    <string name="_0">0</string>
+    <string name="random_number">Random Number</string>
+    <string name="random_number_text">Random Number Text</string>
+    <string name="_1">0</string>
+    <string name="share">Share</string>
+    <string name="title">Title</string>
+    <string name="calculator">Calculator</string>
+    <string name="todo">TODO</string>
+</resources>
